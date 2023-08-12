@@ -5,15 +5,15 @@ navname: About
 
 # {{ site.serverName }}
 
-Moonrise is a simple, flexible template website for Minecraft servers.
-
-[GitHub](https://github.com/coffeebank/moonrise)
+HyperCraft is a vanilla-themed Minecraft server for both Java and Bedrock editions, with quality of life plugins like bluemap installed.
 
 
-# Terms of Use
+# Minecraft Rules
+- Be respectful.
+- No griefing. 
 
-Moonrise MC is free for use [under the MIT license](https://github.com/coffeebank/moonrise).
-
+# Contact
+If you wish to contact the server owners at any time, feel free to email [contact@cloudydestiny.com](mailto:contact@cloudydestiny.com)
 
 # Privacy Policy
 

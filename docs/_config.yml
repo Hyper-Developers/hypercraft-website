@@ -2,25 +2,25 @@
 # Change "coffeebank" to your GitHub username
 # Change "moonrise" to your repository name
 url: "https://coffeebank.github.io"
-baseurl: "/moonrise"
-siteIcon: /media/android-chrome-192x192.png
-siteYear: 2020
+baseurl: "/hypercraft-website"
+siteIcon: /media/server-icon.png
+siteYear: 2023
 siteFooterlink: /about
 showinSearchEngines: true
 # googleAnalyticsID: (uncomment to use)
 
 
 # Set basic server info
-serverName: Moonrise MC
-serverDescription: A Minecraft server where we have lots of fun!
-serverIP: 31.41.59.26:5358
+serverName: HyperCraft SMP
+serverDescription: Le epik minecreft server.
+serverIP: mc.cloudydestiny.com:25568
 useBedrockForOnlineStatus: false
 
 
 # Discord information
-discordInvite: https://discord.gg/minecraft
-discordServerID: 299881420891881473
-discordChannelID: 450428756855750666
+discordInvite: https://discord.gg/QCATRYYH9Y
+discordServerID: 1083508666919047238
+discordChannelID: 1139635217183801524
 
 
 # # Navbar Links at the top of the page (uncomment "siteNav" to use)
