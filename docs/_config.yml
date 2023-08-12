@@ -1,8 +1,8 @@
 # Set this website's info
 # Change "coffeebank" to your GitHub username
 # Change "moonrise" to your repository name
-url: "https://coffeebank.github.io"
-baseurl: "/hypercraft-website"
+url: "https://minecraft.cloudydestiny.com"
+baseurl: ""
 siteIcon: /media/server-icon.png
 siteYear: 2023
 siteFooterlink: /about
