@@ -1,4 +1,4 @@
 ---
 layout: redirect
-tourl: http://mc.cloudydestiny.com:7701
+tourl: https://map.cloudydestiny.com
 ---
