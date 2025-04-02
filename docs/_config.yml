@@ -13,7 +13,7 @@ showinSearchEngines: true
 # Set basic server info
 serverName: HyperCraft SMP
 serverDescription: Le epik minecreft server.
-serverIP: mc.cloudydestiny.com:30062
+serverIP: mc.cloudydestiny.com:24626
 useBedrockForOnlineStatus: false
 
 
